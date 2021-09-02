@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![https://static.wikia.nocookie.net/brawlstars/images/3/33/Max_Skin-Default.png/revision/latest/scale-to-width-down/255?cb=20201110222310](Here's an image from the net)
